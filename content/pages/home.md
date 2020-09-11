@@ -1,9 +1,9 @@
 ---
-title: Hello World!
+title: Hello Steven!
 featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is the home page subtitle
+subtitle: This could be our *cms/***website**.
 meta:
-  title: ''
+  title: ""
 ---
 
 # Netlify CMS + React Starter
